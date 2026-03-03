@@ -111,9 +111,20 @@ _Add dashboard screenshots here._
 
 Example format:
 
+### Executive Summary
 ![Executive Summary](images/executive_summary.png)
-![Temperature Analysis](images/temperature_analysis.png)
-![Humidity Analysis](images/humidity_analysis.png)
+
+### Temperature Analysis
+![Temperature Analysis](images/temperature_control.png)
+
+### Ventilation & CO₂
+![Ventilation Analysis](images/ventilation_and_co2.png)
+
+### Humidity Performance
+![Humidity Analysis](images/humidity.png)
+
+### Data Quality
+![Data Quality](images/data_prepatation_and_cleaning_approach.png)
 
 ---
 
