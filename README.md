@@ -124,7 +124,7 @@ Example format:
 ![Humidity Analysis](images/humidity.png)
 
 ### Data Quality
-![Data Quality](images/data_prepatation_and_cleaning_approach.png)
+![Data Quality](images/data_preparation_and_cleaning_approach.png)
 
 ---
 
